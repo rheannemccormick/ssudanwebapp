@@ -1,0 +1,14 @@
+{
+  "name": "ssudanwebapp",
+  "version": "1.0.0",
+  "description": "a web based tool for visualising live facebook data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rheanne McCormick",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.1.4"
+  }
+}
